@@ -1,82 +1,80 @@
-@dynamic 	
-@author Meeke777 左衛門
 30
- 1_left/long/tightens
+ 1_left / long / tightens
  into 1_right
  into 2_left
  into 3_right keep_left
  50
- 2_right/long
- tightens_to_1/tightens
- into 4_left/long opens
-  30
+ 2_right / long
+ tightens_to_1 / tightens
+ into 4_left / long opens
+ 30
  2_left
  into 2_right
- into 2_left/long opens
+ into 2_left / long opens
   50
- into 5_right/long
- into 4_left/long
- into 3_right/tightens
+ into 5_right / long
+ into 4_left / long
+ into 3_right / tightens
  caution 5_left
- and 1_right/long/tightens
- 6_left/longlong
+ and 1_right / long / tightens
+ 6_left / extralong
  tightens_to_1
- and 2_left/tightens
+ and 2_left / tightens
  2_right
  into 3_left
- into 4_right keep_left
+ into 4_right / keep_left
  50
- 2_right/long
+ 2_right / long
  into 5_left
- into 3_left/tightens
+ into 3_left / tightens
  30
- 5_right/long
+ 5_right / long
  30
- 4_left/long opens
+ 4_left / long opens
  30
- 6_left crest
+ 6_left / crest
  30
- 3_right/long/tightens
- caution 6_left downhill
- 3_right/tightens
+ 3_right / long / tightens
+ caution  /  6_left  /  downhill
+ 3_right / tightens
  into 6_left
- into 4_right/tightens
+ into 4_right / tightens
  30
- into/tightens 3_left/tightens
+ into / tightens 3_left / tightens
  30
  5_left
  and 2_left
- into 5_right/long
+ into 5_right / long
  downhill
- into 4_left/long
- into 4_right/long crest
+ into 4_left / long
+ into 4_right / long crest
  30
  6_right keep_right
  80
- 6_left/cut
+ 6_left / cut
  150
  4_right opens crest
- into 4_left/longlong opens
- into 6_right/long
+ into 4_left /   extralong opens
+ into 6_right / long
  100
  6_right opens
- over_crest/long
+ over_crest / long
  6_right
  100
- 6_left/long crest
+ 6_left / long crest
  into 5_left over_crest
  50
- 4_right/long
+ 4_right / long
  into 5_left keep_left
  50
  4_right opens
- into 4_left/long opens crest
+ into 4_left / long opens crest
  100
- 5_right/long opens
+ 5_right / long opens
  30
- 4_right/long opens uphill
+ 4_right / long opens uphill
  80
- caution 3_left opens 5_left/long
+ caution 3_left opens 5_left / long
  50
  6_right crest
  100
@@ -84,12 +82,12 @@
  100
  go_straight over_crest
  80
- 5_right/longlong
+ 5_right /   extralong
  50
- 6_left/long downhill
-into 6_right/long keep_right	
+ 6_left / long downhill
+into 6_right / long keep_right	
 80
-6_left/long
+6_left / long
 40
 go_straight over_crest
 finish
